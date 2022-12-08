@@ -80,7 +80,7 @@
             alert("Calcula e escreve a média entre os numeros informados e os numeros entre eles");
 
             let number1 = parseInt(prompt("Insira um número"));
-            let number2 = parseInt(prompt("Insira um número menor do que o primeiro"));
+            let number2 = parseInt(prompt("Insira um número maior do que o primeiro"));
 
             while(number2 < number1){
 
